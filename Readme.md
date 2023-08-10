@@ -5,6 +5,11 @@ C:\'Program Files'\'Eclipse Adoptium'\jdk-17.0.6.10-hotspot\bin\java.exe  HelloW
 
 ```
 C:\'Program Files'\'Eclipse Adoptium'\jdk-17.0.6.10-hotspot\bin\javac.exe  pkg/CharactertoInteger.java
+
+## In Poweshell
+
+PS C:\Users\ksaga\OneDrive\Desktop\New folder> & "C:\Program Files\Eclipse Adoptium\jdk-17.0.6.10-hotspot\bin\javac.exe" .\pkg\CharactertoInteger.java
+
 C:\'Program Files'\'Eclipse Adoptium'\jdk-17.0.6.10-hotspot\bin\java.exe  pkg/CharactertoInteger
 C:\'Program Files'\'Eclipse Adoptium'\jdk-17.0.6.10-hotspot\bin\java.exe  pkg.CharactertoInteger
 ```
